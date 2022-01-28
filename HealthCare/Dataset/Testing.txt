@@ -1,0 +1,25 @@
+Weightloss,skinaspirin
+Weightloss,Excessivethirst
+Weightraised,skinaspirin,Excessivethirst,Dehydration Reduced
+Excessivethirst,Dehydration Reduced,skinaspirin
+Excessivethirst,Unnecessarily tension,Unnecessarily hungry
+Unnecessarily hungry,Excessivethirst,Weightloss
+skinInfection,skinrazes,skinaspirin
+skinInfection,skinrazes,Unnecessarily tension
+Weightraised,skinInfection,skinaspirin
+Weightraised,skinInfection,
+skinInfection,skinrazes,Dehydration Increased
+skinInfection,skinrazes,skinaspirin,Excessivethirst
+skinaspirin,Unnecessarily tension,Excessivethirst
+Dehydration loss,Dehydration Reduced,Excessivethirst
+Dehydration unloss,Dehydration Increased
+Dehydration unloss,Dehydration Increased,Excessivethirst
+Unnecessarily hungry,Unnecessarily tension,Excessivethirst
+Weightloss,skinaspirin,Dehydration Reduced,Excessivethirst
+vaginal yeast Infection,vaginal sensitivity,vaginal lubrication
+high blood pressure,high tension,high hungry,Excessivethirst
+low blood pressure,low hungry,high hungry,Excessivethirst
+extreme lethargy,extreme agition,extreme vaginal sensitivity,extreme vaginal lubrication
+unextreme lethargy,unextreme agition,unextreme vaginal,Weightloss,skinaspirin
+unextreme lethargy,unextreme agition,unextreme vaginal lubrication,unextreme vaginal sensitivity
+skinInfection,skinrazes,extreme vaginal sensitivity
